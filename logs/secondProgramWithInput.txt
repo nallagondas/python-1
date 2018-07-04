@@ -1,0 +1,21 @@
+Enter the minimum range numberEnter the max range numberEnter the divisibleEnter the muliplier value to be excludedComma separated list of numbers which are divTraceback (most recent call last):
+  File "/private/var/folders/qd/hw212q693vj14nk1z2z05rx00000gn/T/AppTranslocation/282C2A1A-C14C-49B6-BEDC-B47B90750FFB/d/PyCharm CE.app/Contents/helpers/pydev/pydevd.py", line 1664, in <module>
+    main()
+  File "/private/var/folders/qd/hw212q693vj14nk1z2z05rx00000gn/T/AppTranslocation/282C2A1A-C14C-49B6-BEDC-B47B90750FFB/d/PyCharm CE.app/Contents/helpers/pydev/pydevd.py", line 1658, in main
+    globals = debugger.run(setup['file'], None, None, is_module)
+  File "/private/var/folders/qd/hw212q693vj14nk1z2z05rx00000gn/T/AppTranslocation/282C2A1A-C14C-49B6-BEDC-B47B90750FFB/d/PyCharm CE.app/Contents/helpers/pydev/pydevd.py", line 1068, in run
+    pydev_imports.execfile(file, globals, locals)  # execute the script
+  File "/private/var/folders/qd/hw212q693vj14nk1z2z05rx00000gn/T/AppTranslocation/282C2A1A-C14C-49B6-BEDC-B47B90750FFB/d/PyCharm CE.app/Contents/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/Users/n_suneel/DataScience/PycharmProjects/assignment-1/scripts/secondProgramWithInput.py", line 23, in <module>
+    if(found):
+  File "/Users/n_suneel/DataScience/PycharmProjects/assignment-1/scripts/secondProgramWithInput.py", line 23, in <module>
+    if(found):
+  File "_pydevd_bundle/pydevd_cython_darwin_36_64.pyx", line 968, in _pydevd_bundle.pydevd_cython_darwin_36_64.SafeCallWrapper.__call__
+  File "_pydevd_bundle/pydevd_cython_darwin_36_64.pyx", line 515, in _pydevd_bundle.pydevd_cython_darwin_36_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_36_64.pyx", line 880, in _pydevd_bundle.pydevd_cython_darwin_36_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_36_64.pyx", line 843, in _pydevd_bundle.pydevd_cython_darwin_36_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_36_64.pyx", line 254, in _pydevd_bundle.pydevd_cython_darwin_36_64.PyDBFrame.do_wait_suspend
+  File "/private/var/folders/qd/hw212q693vj14nk1z2z05rx00000gn/T/AppTranslocation/282C2A1A-C14C-49B6-BEDC-B47B90750FFB/d/PyCharm CE.app/Contents/helpers/pydev/pydevd.py", line 812, in do_wait_suspend
+    time.sleep(0.01)
+KeyboardInterrupt

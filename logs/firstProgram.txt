@@ -1,0 +1,9 @@
+Hello World! , Welcome to Python!
+<class 'int'>
+<class 'int'>
+10
+10
+4297644704
+4297644704
+4297644704
+4297645184
